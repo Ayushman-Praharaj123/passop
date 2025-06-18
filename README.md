@@ -1,12 +1,39 @@
-# React + Vite
+# 🚀 Passop <PassOP/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and simple *Password Manager Web App* that helps you securely store and manage your website credentials — including *Site URL, **Username, and **Password* — all in one place.
 
-Currently, two official plugins are available:
+![Passop Screenshot](./screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Features
 
-## Expanding the ESLint configuration
+- 🔒 Save and manage passwords easily
+- 👁 Toggle visibility of passwords
+- 🧹 Delete saved credentials
+- 📋 Clipboard copy functionality (if implemented)
+- 💻 Clean, responsive UI using modern tech stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- *Frontend:* React + Vite
+- *Styling:* CSS
+- *State Management:* useState + Local Storage
+- *Icons:* Font Awesome / Material Icons (optional)
+
+## 🌐 Live Demo
+
+> Coming Soon (You can update this later with your deployed link)
+
+## 🧑‍💻 Getting Started
+
+Follow these instructions to run it locally:
+
+```bash
+# Clone the repository
+# Navigate into the project folder
+cd passop
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
