@@ -1,9 +1,6 @@
 # 🚀 Passop <PassOP/>
 
 A clean and simple *Password Manager Web App* that helps you securely store and manage your website credentials — including *Site URL, **Username, and **Password* — all in one place.
-
-![Passop Screenshot](./screenshot.png)
-
 ## 🧠 Features
 
 - 🔒 Save and manage passwords easily
