@@ -15,11 +15,6 @@ A clean and simple *Password Manager Web App* that helps you securely store and 
 - *Styling:* CSS
 - *State Management:* useState + Local Storage
 - *Icons:* Font Awesome / Material Icons (optional)
-
-## 🌐 Live Demo
-
-> Coming Soon (You can update this later with your deployed link)
-
 ## 🧑‍💻 Getting Started
 
 Follow these instructions to run it locally:
